@@ -2,11 +2,18 @@
 
 > **Research, not financial advice.** Prices are **last close on Friday 2 Oct 2026, 4:00 PM ET**, read from [stockanalysis.com](https://stockanalysis.com) on Sat 3 Oct 2026 around 23:40 UTC. Markets were closed when these were read, so expect them to differ when the market opens Monday. Scores are my judgment using the bottleneck-stock-screen method, not a model. Check the numbers yourself before trading.
 
-Builds on [Bottleneck scan #1](2026-10-03-bottleneck-scan.md).
+Builds on [Bottleneck scan #1](2026-10-03-bottleneck-scan.md). Easy-to-read web version: https://claude.ai/artifact/5hckNokNwTHRKtKyvNSwku (private to the project owner).
 
 ## What changed since the first scan
 
-**These mid-caps have already pulled back hard.** Most of the names below are 40-70% below their 52-week highs. Headlines from mid-September point to a reversal in the AI infrastructure trade: Wall Street weighing an AI slowdown in the data center build-out ([CNBC, 15 Sep 2026](https://www.cnbc.com/2026/09/15/investors-ai-slowdown-data-center-buildout.html)) and AI infrastructure and chip stocks falling on a report that Meta is building a cloud business to sell excess AI compute ([Seeking Alpha](https://seekingalpha.com/news/4609003-ai-infrastructure-chip-stocks-fall-after-report-meta-building-cloud-business-for-excess-ai-compute)). *I could only read the headlines, not the full articles.*
+**These mid-caps have already pulled back hard.** Most of the names below are 40-70% below their 52-week highs.
+
+*Corrected after reading the full articles (the first version relied on headlines):*
+
+- **The main September trigger was a call to slow AI model development, not a drop in orders.** On 12 Sep 2026 Anthropic's CEO Dario Amodei published "We Must Pace the Frontier", asking AI labs to slow how fast model capabilities improve and to give outside safety evaluators deeper access. OpenAI's Sam Altman and Elon Musk agreed publicly. The commitments are voluntary and are about model development and transparency, not about building fewer data centers ([Axios, 12 Sep](https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing)). *(Disclosure: I'm made by Anthropic. I've reported this the same way I would any other company.)*
+- **Investors still sold the suppliers.** On 14-15 Sep GE Vernova fell 9%, Vertiv 8%, Micron 5.3% and Nvidia 3.4%, while Alphabet, Microsoft and Meta rose. Vital Knowledge said "pick and shovel suppliers of AI infrastructure were hit hardest", and D.A. Davidson's Gil Luria said hyperscalers "can stop adding capacity and harvest returns from assets already built", though he doubts a real pause will happen. Credit spreads on new AI-related bonds also widened ([summary of 15 Sep coverage](https://streamlinefeed.co.ke/news/wall-street-prices-ai-slowdown-risk-across-data-center-buildout)). President Trump called the slowdown push "fearmongering" ([Whalesbook, 16 Sep](https://www.whalesbook.com/news/English/technology/AI-Giants-Call-for-Slowdown-Chip-Stocks-Slip-on-Capex-Fears/6aaa2a1e0416c068539e3756)).
+- **The Meta headline I cited earlier was misleading.** The report that Meta would sell spare AI compute came out on 2 Jul 2026, not September. Meta's stock rose more than 10%. The stocks that fell were "neoclouds" that rent GPUs to Meta: CoreWeave fell 10.8% and Nebius 12.4% ([Tom's Hardware, 2 Jul](https://www.tomshardware.com/tech-industry/meta-reportedly-plans-to-rent-out-its-ai-compute)). SemiAnalysis called the wider panic "erroneous" and expects Meta's buying to accelerate ([SCMP, 3 Jul](https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say)). It isn't a direct driver for the stocks in this screen.
+- **What this means for the screen:** the risk is investor sentiment, not cancelled orders, at least so far. The next real test is hyperscaler capex guidance in late-October earnings. If Amazon, Microsoft, Alphabet and Meta keep or raise spending plans, the sell-off looks like an overreaction. If they cut, these suppliers fall further. *I couldn't link each stock's full 40-70% drop to these events; the drawdowns probably built up over several months.*
 
 The pullback makes valuations more reasonable (many now trade at 20-30x forward earnings). It also means **the trend has broken**, and a stock that is down 50% can still fall further. The process at the bottom handles this with a rule: wait for the price to show it's turning before buying a full position.
 
@@ -98,7 +105,7 @@ Inside the thematic bucket:
 1. **Written thesis:** one sentence on why it works, plus the evidence (from the score table).
 2. **Exit signal written down first:** what would prove the thesis wrong.
 3. **Score of 21/30 or higher.**
-4. **Trend check:** after a 40-70% drawdown, buy only a **starter position (one-third)** until the price closes above its 50-day moving average. Add the second third after the next earnings report confirms the story, and the last third once the price holds above the 200-day average.
+4. **Trend check:** after a 40-70% drawdown, buy only a **starter position (one-third)**. Add the second third once the price closes above its 50-day moving average, and the last third after the next earnings report confirms the story.
 5. **Earnings timing:** don't open a full position in the week before earnings. Volatile mid-caps often move 10-20% on the report.
 
 ### 3. Exit rules (decide before buying)
