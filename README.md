@@ -13,3 +13,4 @@ Everything here is research, not financial advice.
 
 - [2026-10-03: Bottleneck scan #1](reports/2026-10-03-bottleneck-scan.md) covering power, grid, memory, packaging, optics, cooling, materials, nuclear fuel and labor
 - [2026-10-03: Mid-cap screen + trading process](reports/2026-10-03-midcap-screen.md) with 19 US-tradable mid-caps scored, plus monthly/quarterly review rules
+- [2026-10-04: Why the core stocks fell](reports/2026-10-04-selloff-root-causes.md) with a timeline and root causes of the 40-50% drops
